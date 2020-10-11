@@ -1,4 +1,4 @@
-# exant-calc-merc-storia
+# merc-storia-calculation
 スマートフォン用ゲームアプリ メルクストーリアの登場ユニットデータのステータス計算用notebook(Google Colaboratory)。 A notebook(Google Colaboratory) for calculating the status of units data appearing in the game app Merc storia.
 
 ## ユニットデータについて
@@ -6,7 +6,8 @@
 Google Colaboratory環境でアクセス可能であるように[他リポジトリ](https://github.com/darimakijou/units-data-merc-storia)にて公開しています。
 上記サイトのデータを利用することでユニットの所持／未所持によるフィルタリングが可能です。
 
-## 計算式
+## 計算機能
+### エグザント計算
 メルクストーリアのゲームユーザー有志により公開された[スプレッドシート](https://docs.google.com/spreadsheets/d/175QZbBlXFY0Vmj0Ry4K7ROuvq3R2VVfTPg_JZ999GBc/edit#gid=1331436877)の計算式をそのまま利用しています。
 
 ## 注意事項
@@ -18,4 +19,7 @@ Google Colaboratory環境でアクセス可能であるように[他リポジト
 公開に問題がある場合は、ご連絡ください。
 
 ## 謝辞
-ユニットデータを作成、保守いただいている[ユガラボ](https://yugalab.net)管理人[ユーリ様](https://twitter.com/yugalab)、エグザント計算機を公開いただた[ヤッシー様](https://twitter.com/yaswiqa)に感謝いたします。
+### ユニットデータ
+ユニットデータを作成、保守いただいている[ユガラボ](https://yugalab.net)管理人[ユーリ様](https://twitter.com/yugalab)
+### エグザント計算
+エグザント計算機を公開いただた[ヤッシー様](https://twitter.com/yaswiqa)に感謝いたします。
